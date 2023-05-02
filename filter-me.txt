@@ -15,6 +15,9 @@ www.trustedreviews.com##.page_header_container
 ! 2023-03-30 https://w3.komisanwamanga.com
 w3.komisanwamanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 
+! 2023-05-02 https://www.cbr.com
+www.cbr.com##.js-open-sidemenu.i-list.icon.article-directory-list-cta
+
 ! 2023-04-26 https://reddxxx.com
 reddxxx.com##.ring-th-border2.hover\:ring-th-borderHighlight2.ring-1.rounded-lg.m-1.z-10.relative.hover\:cursor-pointer.hover\:bg-th-postHover.bg-th-post
 
