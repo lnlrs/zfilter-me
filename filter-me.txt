@@ -22,6 +22,7 @@ www.cbr.com##.js-open-sidemenu.i-list.icon.article-directory-list-cta
 reddxxx.com##.ring-th-border2.hover\:ring-th-borderHighlight2.ring-1.rounded-lg.m-1.z-10.relative.hover\:cursor-pointer.hover\:bg-th-postHover.bg-th-post
 
 ! 2023-04-27 https://www.reddit.com
+www.reddit.com##.TmgZY6tDcdErbE5d7E0HJ
 www.reddit.com##._17PUokUAvL3YJx6EyPdD9d
 www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
