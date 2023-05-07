@@ -6,6 +6,9 @@ www.partitionwizard.com##.promotions-banner-wrap
 ! 2022-12-26 https://www.crucial.com
 ||www.crucial.com/content/dam/crucial/brand-assets/logos/crucial/official/box-logo/crucial-box-logo.ai/_jcr_content/renditions/cq5dam.thumbnail.319.319.png$image
 
+! 2023-05-08 https://community.chocolatey.org
+community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none
+
 ! 2022-12-26 https://nagatoromanga.com
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 
