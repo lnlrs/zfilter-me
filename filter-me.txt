@@ -9,6 +9,11 @@ www.partitionwizard.com##.promotions-banner-wrap
 ! 2023-05-08 https://community.chocolatey.org
 community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none
 
+! https://github.com/uBlockOrigin/uAssets/issues/1295
+chocolatey.org###package-disclaimer
+chocolatey.org##.show.fade.modal-backdrop
+chocolatey.org##body:style(overflow:auto !important)
+
 ! 2022-12-26 https://nagatoromanga.com
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 
