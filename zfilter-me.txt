@@ -1,5 +1,5 @@
+[Adblock Plus 2.0]
 ! Title: zFilter Me
-! Expires: 1 days
 
 ! 2023-05-10 https://www.cbr.com
 www.cbr.com##.adsninja-rail-container.sidebar
