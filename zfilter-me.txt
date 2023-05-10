@@ -1,15 +1,10 @@
 ! Title: zFilter Me
-
 cbr.com##.sidebar.adsninja-rail-container
 cbr.com###secondary
-
 community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none
-
 deviantart.com##.IIlhx
-
 nagatoromanga.com##.navbar.navbar-default.navbar-fixed-top.navbar-left
 w4.komisanwamanga.com##.navbar.navbar-default.navbar-fixed-top.navbar-left
-
 reddxxx.com##.bg-th-post.hover\:bg-th-postHover.hover\:cursor-pointer.relative.z-10.m-1.rounded-lg.ring-1.hover\:ring-th-borderHighlight2.ring-th-border2
 reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 reddit.com##._1vXXD2qKLnHetdKvisFzBD
