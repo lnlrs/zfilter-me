@@ -1,4 +1,5 @@
 ! Title: zFilter Me
+! Expires: 1 days
 
 ! 2023-05-10 https://www.cbr.com
 www.cbr.com##.adsninja-rail-container.sidebar
@@ -17,3 +18,9 @@ w4.komisanwamanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 
 ! 2023-05-11 https://reddxxx.com
 reddxxx.com##.ring-th-border2.hover\:ring-th-borderHighlight2.ring-1.rounded-lg.m-1.z-10.relative.hover\:cursor-pointer.hover\:bg-th-postHover.bg-th-post
+
+! 2023-05-11 https://www.reddit.com
+www.reddit.com##._1vXXD2qKLnHetdKvisFzBD
+www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.reddit.com##._365FiUZ11efXHV7l7fNp6K._3Tc8YYRhVDX9vlR0XePZfH > .HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT
