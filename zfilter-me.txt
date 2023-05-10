@@ -15,11 +15,5 @@ nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 ! 2023-05-10 https://w4.komisanwamanga.com
 w4.komisanwamanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 
-! 2023-05-10 https://www.reddit.com
-www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-www.reddit.com##._23q1waDr4n_2fR5A7zcZzb.x0hiXHicn7r3BG9m1FJH4
-www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
-www.reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT
-
 ! 2023-05-11 https://reddxxx.com
 reddxxx.com##.ring-th-border2.hover\:ring-th-borderHighlight2.ring-1.rounded-lg.m-1.z-10.relative.hover\:cursor-pointer.hover\:bg-th-postHover.bg-th-post
