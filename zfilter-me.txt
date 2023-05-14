@@ -2,6 +2,7 @@
 ! Title: zFilter Me
 
 www.cbr.com##.adsninja-rail-container.sidebar
+comicbook.com##.channel-nav.clearfix
 comicbook.com##.PrimaryNav.PrimaryNav--comicbook
 community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
