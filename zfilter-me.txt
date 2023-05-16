@@ -2,10 +2,6 @@
 ! Title: zFilter Me
 ! Expires: 1 days (update frequency)
 
-www.amazon.com##.a-carousel-goto-prevpage
-www.amazon.com##.a-carousel-goto-nextpage
-www.amazon.com##.a-carousel
-www.amazon.com###gw-desktop-herotator
 www.cbr.com##.adsninja-rail-container.sidebar
 comicbook.com##.channel-nav.clearfix
 comicbook.com##.PrimaryNav.PrimaryNav--comicbook
