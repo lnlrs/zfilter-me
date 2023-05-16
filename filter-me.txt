@@ -1,36 +1,6 @@
-! Title: zFilter Me
+! Title: UzFilter Me
 
-! 2022-03-31 https://www.partitionwizard.com
-www.partitionwizard.com##.promotions-banner-wrap
-
-! 2022-12-26 https://www.crucial.com
-||www.crucial.com/content/dam/crucial/brand-assets/logos/crucial/official/box-logo/crucial-box-logo.ai/_jcr_content/renditions/cq5dam.thumbnail.319.319.png$image
-
-! 2023-05-08 https://community.chocolatey.org
-community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none
-
-! 2022-12-26 https://nagatoromanga.com
-nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
-
-! 2023-03-16 https://www.trustedreviews.com
-www.trustedreviews.com##.page_header_container
-
-! 2023-03-30 https://w3.komisanwamanga.com
-w3.komisanwamanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
-
-! 2023-05-02 https://www.cbr.com
-www.cbr.com##.js-open-sidemenu.i-list.icon.article-directory-list-cta
-
-! 2023-04-26 https://reddxxx.com
-reddxxx.com##.ring-th-border2.hover\:ring-th-borderHighlight2.ring-1.rounded-lg.m-1.z-10.relative.hover\:cursor-pointer.hover\:bg-th-postHover.bg-th-post
-
-! 2023-04-27 https://www.reddit.com
-www.reddit.com##.TmgZY6tDcdErbE5d7E0HJ
-www.reddit.com##._17PUokUAvL3YJx6EyPdD9d
-www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
-www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > div._2vEf-C2keJaBMY9qk_BxVn > ._2c-vsdp-tGBM0QBPbMrQFy
-www.reddit.com##._23q1waDr4n_2fR5A7zcZzb.x0hiXHicn7r3BG9m1FJH4
-
-! 2023-04-16 https://thefantasyreviews.com
-thefantasyreviews.com##.active.starting-to-show.mailpoet_form_animation_slideright.mailpoet_form_position_.mailpoet_form_popup.mailpoet_form
+www.amazon.com##.a-carousel-goto-prevpage
+www.amazon.com##.a-carousel-goto-nextpage
+www.amazon.com##.a-carousel
+www.amazon.com###gw-desktop-herotator
