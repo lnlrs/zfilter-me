@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+! Title: zTest Filter Me
+! Expires: 1 days (update frequency)
+
+yandex.com##.MastHead > .lsSQqvaZ0pS2PXmVf > .lsSQqvaZ0pS2PXmVf-lpQ43vKBDgy2XVmJUNII

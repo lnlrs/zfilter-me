@@ -1,6 +1,0 @@
-! Title: zTest Filter Me
-
-www.amazon.com##.a-carousel-goto-prevpage
-www.amazon.com##.a-carousel-goto-nextpage
-www.amazon.com##.a-carousel
-www.amazon.com###gw-desktop-herotator
