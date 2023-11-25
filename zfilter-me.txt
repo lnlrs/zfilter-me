@@ -3,3 +3,4 @@
 ! Expires: 1 days (update frequency)
 
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
+community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-block.d-none
