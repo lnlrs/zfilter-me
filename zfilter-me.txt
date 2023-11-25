@@ -16,8 +16,7 @@ www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ 
 nagatoromanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 w4.komisanwamanga.com##.navbar-left.navbar-fixed-top.navbar-default.navbar
 reddxxx.com##.ring-th-border2.hover\:ring-th-borderHighlight2.ring-1.rounded-lg.m-1.z-10.relative.hover\:cursor-pointer.hover\:bg-th-postHover.bg-th-post
-www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-www.reddit.com##._23q1waDr4n_2fR5A7zcZzb.x0hiXHicn7r3BG9m1FJH4
-www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
-www.reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT
+www.reddit.com##A[class="_24UNt1hkbrZxLzs5vkvuDh"][href="https://ads.reddit.com?utm_source=d2x_consumer&utm_name=top_nav_cta"]
+www.reddit.com##DIV[class="x0hiXHicn7r3BG9m1FJH4 _23q1waDr4n_2fR5A7zcZzb _2t7TYn6HwRZQwKXG47kpQR"]
+www.reddit.com##DIV[class="_3RPJ8hHnfFohktLZca18J6 "]
 yandex.com##.MastHead > .lsSQqvaZ0pS2PXmVf > .lsSQqvaZ0pS2PXmVf-lpQ43vKBDgy2XVmJUNII
