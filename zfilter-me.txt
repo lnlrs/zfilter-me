@@ -7,5 +7,3 @@ community.chocolatey.org##.p-3.border-start.col-xxl-2.col-xl-3.col-md-4.d-md-blo
 powerlisting.fandom.com##DIV[class="DesktopArticleVideoPlayer__DesktopArticleVideoTopPlaceholder-sc-11673vn-0 fKYQUO"]
 powerlisting.fandom.com##DIV[id="featured-video__player-container"][class="featured-video-player-container"]
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
-! 2023-11-26 https://www.reddit.com
-www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR > div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV.avKlJzxZU3brq4nAX0_i1
