@@ -9,4 +9,4 @@ powerlisting.fandom.com##DIV[id="featured-video__player-container"][class="featu
 www.deviantart.com##.forced-theme-light.theme-light._2Ee-T._1iiLS._2jTZG._158hZ > .IIlhx
 www.wcofun.tv##IMG[src="https://www.wcostream.org/premiumad4.png"]
 yandex.com##DIV[id="AdvMastHead_931093_541491"][class="wot5jktFNZ2gBOz1n-wtvRak9d6QWgZMzps9Ps"]
-yandex.com##svg[class="ContentLoader ContentLoader_skin_light SimpleSkeleton"]
+! yandex.com##svg[class="ContentLoader ContentLoader_skin_light SimpleSkeleton"]
