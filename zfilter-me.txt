@@ -13,3 +13,4 @@ www.amazon.com##DIV[class="_desktop-tall-big-screen-video-card_style_lazy-loaded
 www.reddit.com##SECTION[id="right-sidebar-container"][class="right-sidebar hidden s:block xs:col-span-4 s:col-span-4 m:col-span-3 l:col-span-4 xl:col-start-11 xl:col-span-4 styled-scrollbars\nxs:w-full xs:sticky xs:top-[56px] xs:max-h-[calc(100vh-var(--shreddit-header-height)-1px)]\nxs:overflow-y-auto xs:overflow-x-hidden"]
 new.reddit.com##DIV[class="_3Kd8DQpBIbsr5E1JcrMFTY _1tvThPWQpORoc2taKebHxs"]
 new.reddit.com##._2zZ-KGHbWWqrwGlHWXR90y._2I12Htze2UzJmmfnrgYJOn._1dBtowHdRHcGyLbVEaOL8t
+www.reddit.com##SECTION[class="flex flex-col h-full my-0 py-md box-border"]
