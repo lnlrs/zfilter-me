@@ -12,4 +12,4 @@ yandex.com##DIV[id="AdvMastHead_931093_541491"][class="wot5jktFNZ2gBOz1n-wtvRak9
 www.amazon.com##DIV[class="_desktop-tall-big-screen-video-card_style_lazy-loaded-video__2OqXH _desktop-tall-big-screen-video-card_style_aspect-ratio-16x9__9AtM1 _desktop-tall-big-screen-video-card_style_stacking-context__31hbO"]
 reddit.com###advertise-button
 reddit.com###right-sidebar-container
-imgur.com/PuSbITS$popup,third-party
+imgur.com$popup,third-party
